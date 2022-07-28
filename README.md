@@ -2,5 +2,7 @@
 
 Olá, bem vindo ao meu livro de receitas.
 
-- Strogonoff de Frango
-- Lasanha
+- Strogonoff de frango
+- Lasanha 
+- Molho branco simples
+- Pavê
